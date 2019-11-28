@@ -12,4 +12,5 @@ def funcao_decorada(funcao_original):
 def Pessoa_teste(nome,idade):
     print(f"Pessoa {nome} criada com idade {idade}")
 
+
 Pessoa_teste('wellington',21)
